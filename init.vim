@@ -1,3 +1,4 @@
+" Message for git
 set number
 set relativenumber
 set number
