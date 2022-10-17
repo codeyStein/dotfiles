@@ -1,2 +1,4 @@
 # dotfiles
-my dotfiles for vim (so far)
+my dotfiles for:
+* Alacritty
+* Vim/NeoVim
